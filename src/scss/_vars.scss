@@ -1,0 +1,33 @@
+$footerAccentColor: #f8b410;
+$footerColor: linear-gradient(
+  90deg,
+  rgb(45 108 107) 0%,
+  rgb(21 51 51) 35%,
+  rgb(13 42 42) 100%
+);
+$footerFont-size: 14px;
+$footerFontColor: #fff;
+
+:root {
+  --color-bg: #590f3f;
+
+  --color-primary: #8c1c65;
+  --color-primary-hover: #8d32a6;
+  --color-white: #f0f0f2;
+  --color-light: #fdf3e3;
+  --color-accent: #f2138e;
+  --color-second: #f2b999;
+
+  --color-bg-variant: #8c1c65;
+  --color-primary-variant: #f2b999;
+
+  --color-modalsBG: linear-gradient(180deg, #590f3f, #8c1c65 100.21%);
+  --bacckground-modals: #4a3c50;
+  --color-modalP: #f2b999;
+
+  --transition: all 300ms ease;
+  --border-radius: 10px;
+
+  --container-width-mobile: 90%;
+  --container-width-desktop: 80%;
+}
